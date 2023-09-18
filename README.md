@@ -1,7 +1,8 @@
 # convertNumbersToWords
 Easily convert 19 to nineteen, or 1024 to one thousand twenty four.
 
-e.g. 
+e.g.
+ 
 9
 nine
 
