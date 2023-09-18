@@ -1,6 +1,6 @@
 <?php
 /**
- * n2w.php
+ * convertNumberToWords.php
  *
  * php function to convert numbers to words
  * @author Jeff Hendrickson JKH <jeff@hendricom.com>
